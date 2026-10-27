@@ -1,4 +1,4 @@
- import os, json, urllib.request, urllib.parse
+import os, json, urllib.request, urllib.parse
 import xml.etree.ElementTree as ET
 
 TOKEN = os.environ["TELEGRAM_TOKEN"]
